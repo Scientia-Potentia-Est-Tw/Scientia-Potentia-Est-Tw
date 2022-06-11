@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Scientia
 
 <!--
 **Scientia-Potentia-Est-Tw/Scientia-Potentia-Est-Tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Cryptography Researcher
+- 🌱 I’m currently learning Quantum Theory for research Post Quantum Cryptography
+- 📫 How to reach me: scientia.huang@gmail.com
+
+### Language and Tools
+- 🔧 C
+- 🔧 C++
+- 🔧 Python
+- 🔧 Java
+- 🔧 Latex
