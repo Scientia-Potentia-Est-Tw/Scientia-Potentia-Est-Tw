@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there!👋</h1>
 
-<!--
-**Scientia-Potentia-Est-Tw/Scientia-Potentia-Est-Tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<p align="left">
 
-Here are some ideas to get you started:
+🌱 Cryptology, Cryptography Engineering, Quantum Computing, AI Security and Security AI<br>
+📫 Contact: **scientia.infosec@protonmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.buymeacoffee.com/Scientia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+📝<a herf="https://scientia-potentia-est.com" target="blank"></a>
+<a href="https://twitter.com/ScientiaTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaaddress1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hong-sheng-huang-b45510149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaddress1" height="30" width="40" /></a>
+<a href="https://fb.com/ScientiaPotentiaEstTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaaddress1" height="30" width="40" /></a>
+<a href="https://instagram.com/scientiatw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaddr1" height="30" width="40" /></a>
+  
+</div>
