@@ -12,6 +12,6 @@
 <a href="https://twitter.com/ScientiaTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ScientiaTw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hong-sheng-huang-b45510149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ScientiaTw" height="30" width="40" /></a>
 <a href="https://fb.com/ScientiaPotentiaEstTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ScientiaTw" height="30" width="40" /></a>
-<a href="https://instagram.com/scientiatw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ScientiaTw" height="30" width="40" /></a>
+<a href="https://www.instagram.com/scientia_potentia_est_tw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ScientiaTw" height="30" width="40" /></a>
   
 </div>
