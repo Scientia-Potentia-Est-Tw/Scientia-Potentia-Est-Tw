@@ -3,7 +3,7 @@
 <div align="center">
 <p align="left">
 
-🌱 Cryptology, Cryptography Engineering, Quantum Computing, AI Security and Security AI<br>
+🌱 Cryptology, Cryptography Engineering, Reverse Engineering, Network Security, Computational Complexity, Quantum Computing, AI Security and Security AI<br>
 📫 Contact: **scientia.infosec@protonmail.com**  
 
 <a href="https://www.buymeacoffee.com/Scientia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
