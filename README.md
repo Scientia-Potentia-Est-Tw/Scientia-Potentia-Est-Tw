@@ -3,6 +3,8 @@
 <div align="center">
 <p align="left">
 
+![](https://komarev.com/ghpvc/?username=Scientia-Potentia-Est-Tw&color=red)
+
 🌱 Cryptology, Cryptographic Engineering, Theory of Computational Complexity, Quantum Information and Quantum Computation, Hardware Security, Cyber Security and Anomaly Detection<br>
 📫 Contact: **scientia.infosec@gmail.com**  
 
