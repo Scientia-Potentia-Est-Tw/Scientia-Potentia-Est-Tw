@@ -15,6 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scientia-Potentia-Est-Tw&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br>
 <a href="https://twitter.com/ScientiaTw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ScientiaTw" height="30" width="40" /></a>
 <a href="https://fb.com/ScientiaPotentiaEstTw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ScientiaTw" height="30" width="40" /></a>
-<a href="https://www.instagram.com/scientia_potentia_est_tw/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ScientiaTw" height="30" width="40" /></a>
   
 </div>
