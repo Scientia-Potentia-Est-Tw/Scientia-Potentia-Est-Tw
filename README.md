@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Scientia-Potentia-Est-Tw&color=red)
 
 🌱 Cryptology, Cryptographic Engineering, Theory of Computational Complexity, Quantum Information and Quantum Computation, Hardware Security, Cyber Security and Anomaly Detection<br>
-📫 Contact: **scientia.infosec@gmail.com**  
+📫 Contact: **scientia.polymath@gmail.com**  
 
 <a href="https://www.buymeacoffee.com/Scientia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
